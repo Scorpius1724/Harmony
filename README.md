@@ -8,7 +8,7 @@
 #### Servers, Python (Programming language), PyCharm (IDE), streamlit (Python library), GitHub (VCS), Discord (For communication)
 ## Tracks: Health Tech
 ## Installation guide: 
-#### No installation or downloads needed as this is a web application. It can be run in any browser as a web application.
+#### No installation or downloads needed as this is a web application. It can be run in any browser as a web application through the following URL: https://scorpius1724-harmony-home-rdn9y1.streamlit.app/
 ## Usage: The usage is explained by the following points:-
 - #### The home is pretty straight-forward. There is a series of emojis available along with a select box for the user to pick an emoji. 
 - #### Based on the user's emoji selection, appropriate advices and measures that the user can take, are displayed.
